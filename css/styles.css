@@ -1,8 +1,8 @@
-
-
-
-
-
+body {
+    font-family: Roboto;
+    color: #434455;
+    background-color: #ffffff;
+}
 
 .logoone {
             font-family: "Raleway";
@@ -60,6 +60,14 @@
     background-color: #2e2f42;
 }
 
+.sectionone h1 {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
 .karsilama- {
     font-size: 56px;
     line-height: 1.07;
@@ -68,7 +76,7 @@
     color: #ffffff;
 }
 
-.buton- {
+.buton {
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
@@ -86,7 +94,40 @@
     background-color: #404BBF;
 }
 
-.strategy- {
+
+.sectiontwo- h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e4234;
+}
+
+.sectiontwo- p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.sectiontree {
+    background-color: #f4f4fd;
+}
+.sectiontree h2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.sectiontree li {
+    background-color: #FFFFFF;
+
+}
+
+.sectiontree h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -94,8 +135,10 @@
     color: #2e2f42;
 }
 
-.ourgoal- {
-
+.sectiontree p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #43554e;
 }
-
-
+   
