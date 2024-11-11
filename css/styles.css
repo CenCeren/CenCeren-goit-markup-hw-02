@@ -24,18 +24,18 @@ body {
             color: #2e2f42;
 }
 
-.link {
+.title {
     font-weight: 500; 
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.link:hover {
+.title:hover {
     color: #404bbf;
 }
 
-.link:focus {
+.title:focus {
     color: #404bbf;
 }
 
@@ -86,11 +86,11 @@ body {
     cursor: pointer;
 }
 
-.button-:hover {
+.button:hover {
     background-color: #404BBF;
 }
 
-.button-:focus {
+.button:focus {
     background-color: #404BBF;
 }
 
