@@ -5,23 +5,23 @@ body {
 }
 
 .logoone {
+            color: #4d5ae5;
             font-family: Raleway;
             font-weight: 700;
             font-size: 18px;
             line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
-            color: #4d5ae5;
 }
 
 .logotwo {
-            font-family: Raleway;
+            color: #2e2f42;
             font-weight: 700;
             font-size: 18px;
             line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
-            color: #2e2f42;
+           
 }
 
 .title {
@@ -213,5 +213,11 @@ body {
 }
 
 .footer {
-    color: #2e2f42;
+    background-color: #2e2f42;
+}
+
+.dipnot {
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
